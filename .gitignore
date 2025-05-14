@@ -1,0 +1,9 @@
+*.exe
+*.dll
+*.so
+*.dylib
+
+*.test
+
+Db folder
+db/
